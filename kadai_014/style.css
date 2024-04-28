@@ -15,7 +15,7 @@ h1 {
     font-style: normal;
     font-size: 2rem;
     letter-spacing: 1.2em;
-    border-bottom: solid;
+    border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 2px 3px #808080;
 }
 
@@ -27,6 +27,6 @@ h1 {
     color: rgb(255, 192, 203);
 }
 
-.font-bold {
+#basic p {
     font-weight: bold;
 }
